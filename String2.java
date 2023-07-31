@@ -7,6 +7,8 @@ public class String2 {
 		//System.out.println(sb);
 		sb.append("A");
 		System.out.println(sb);
+		System.out.println(sb);
+		
 	}
 
 }

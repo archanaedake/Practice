@@ -16,7 +16,7 @@ public class Palandrom2 {
 		}
 		else
 		{
-			System.out.println("Given String is not inPalindrom");
+			System.out.println("Given String is not a inPalindrom");
 		}
 			
 				

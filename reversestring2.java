@@ -10,6 +10,8 @@ public class reversestring2 {
 		}
 		System.out.println(a);
 		System.out.println(rev);
+		System.out.println(hi);
+		
 	}
 }
 		
